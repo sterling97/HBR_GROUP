@@ -1,5 +1,4 @@
 ﻿
-//console.log(true);
 //Events
 
 $(document).ready(() => {

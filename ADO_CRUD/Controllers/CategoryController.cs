@@ -22,12 +22,6 @@ namespace ADO_CRUD.Controllers
         {
             return View();
         }
-        /*public ActionResult New_itm(CategoryModel model)
-        {
-            admin.SaveCategories(model);
-            return View("SaveCategories", model);
-        }*/
-
         public ActionResult EditCategory(int Id)
         {
             CategoryModel category = admin.GetById(Id);

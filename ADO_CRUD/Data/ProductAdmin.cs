@@ -9,7 +9,6 @@ namespace ADO_CRUD.Data
 {
     public class ProductAdmin:Connection
     {
-       // public IEnumerable<ProductModel> Consultar()
         public IEnumerable<ProductModel> Consultar()
         {
             Connect();
