@@ -1,0 +1,6 @@
+C:\Users\Batinecio\Desktop\prueba_crud\HBR_GROUP\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Batinecio\Desktop\prueba_crud\HBR_GROUP\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Batinecio\Desktop\prueba_crud\HBR_GROUP\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Batinecio\Desktop\prueba_crud\HBR_GROUP\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Batinecio\Desktop\prueba_crud\HBR_GROUP\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Batinecio\Desktop\prueba_crud\HBR_GROUP\DataAccess\obj\Debug\DataAccess.pdb
